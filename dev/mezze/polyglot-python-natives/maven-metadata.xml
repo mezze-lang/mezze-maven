@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>land.meridia.mezze</groupId>
+  <groupId>dev.mezze</groupId>
   <artifactId>polyglot-python-natives</artifactId>
   <versioning>
     <latest>0.2.0</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>0.2.0</version>
     </versions>
-    <lastUpdated>20260913112137</lastUpdated>
+    <lastUpdated>20260913120043</lastUpdated>
   </versioning>
 </metadata>
