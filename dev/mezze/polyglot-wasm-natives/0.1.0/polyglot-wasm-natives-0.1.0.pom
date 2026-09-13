@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dev.mezze</groupId>
+  <artifactId>polyglot-wasm-natives</artifactId>
+  <version>0.1.0</version>
+  <packaging>jar</packaging>
+  <name>Mezze polyglot polyglot-wasm-natives</name>
+</project>
